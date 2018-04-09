@@ -1,6 +1,6 @@
 # _Animal Adoption Agency App_
 
-#### _A web application for an animal adoption agency, that allows a user to view animals up for adoption, as well as submit their own pet for adoption. {4/6/18}_
+#### _A web application for an animal adoption agency, that allows a user to view animals up for adoption, as well as submit their own pet for adoption. {4/9/18}_
 
 #### By _**Andrew Lupton, Austin Roberts, Dennise Ortega, Jim McNamara, and Kristi Hwang**_
 
