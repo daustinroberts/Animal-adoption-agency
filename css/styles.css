@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+}
+
+.availablePets {
+  margin: 5%;
+}
+
+.adoptedPets {
+  margin-top: 5%;
+}
